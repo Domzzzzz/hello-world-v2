@@ -24,3 +24,4 @@ $ git checkout master
 $ git merge feature
 $ git push
 $ git branch -d feature
+$ git clone origin remote repository URL
